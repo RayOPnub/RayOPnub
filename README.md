@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RayOPnub
+- 👋 Hi, I’m Suvam Routray
 - 👀 I’m interested in creating fancy stuff with the help of coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
